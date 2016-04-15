@@ -62,16 +62,17 @@
 
 *请各位在这里补充自己的简介、Github仓库*
 
-- @lilingxinyi
-- @Linkding （零丁）
-- @mumu（暮暮）
-- @junjielizero
-- @ziwuniao （子午鸟）
-- @MissUUU 
-- @lulukee （鲁锋）坐标：上海的；自由职业，投资人，理财师；业余奶爸，孩子一岁半。
-- @Cen74 
-- @xudoujiang（许豆浆），坐标广州。职业：教育研究员、课程设计师。 [GitHub](https://github.com/xudoujiang/BookWriter002)
-- 
+@lilingxinyi
+@Linkding （零丁）
+@mumu（暮暮）
+@junjielizero
+@ziwuniao （子午鸟）
+@MissUUU 
+@lulukee （鲁锋）坐标：上海的；自由职业，投资人，理财师；业余奶爸，孩子一岁半。
+@Cen74 
+@xudoujiang（许豆浆），坐标广州。职业：教育研究员、课程设计师。 [GitHub](https://github.com/xudoujiang/BookWriter002)
+
+
 ### 执行计划
 - 6wd0前，团队成员线下面谈一次；
 - 采用“精益画布”对项目创意进行第一步定位。
